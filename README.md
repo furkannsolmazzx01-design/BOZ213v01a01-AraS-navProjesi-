@@ -5,6 +5,7 @@ TicTacToe oyunu (Türkiye'de yaygın adıyla bilinen XOX veya Sıfır-Çarpı), 
 
 # Kullanılan Yazılım Dili 
 Python 3.13.7 
+
 random (bilgisayarın oynaması için)
 
 # Oyunun Amacı 
