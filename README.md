@@ -1,7 +1,11 @@
 # BOZ213v01a01-AraS-navProjesi-
 TicTacToe Oyunu 
 
-TicTacToe oyunu (Türkiye'de yaygın adıyla bilinen XOX veya Sıfır-Çarpı), kağıt kalemle oynanan, kuralları basit klasik bir zeka ve strateji oyunudur. 
+TicTacToe oyunu (Türkiye'de yaygın adıyla bilinen XOX veya Sıfır-Çarpı), kağıt kalemle oynanan, kuralları basit klasik bir zeka ve strateji oyunudur.
+
+# Kullanılan Yazılım Dili 
+Python 3.13.7 
+random (bilgisayarın oynaması için)
 
 # Oyunun Amacı 
 Oyunun temel amacı, 3*3'lük kareli bir alanda kendi sembolümüzü (X ya da O) yatay, çapraz ya da dikey olacak şekilde arka arkaya üçlü sıra haline getirmektir. 
