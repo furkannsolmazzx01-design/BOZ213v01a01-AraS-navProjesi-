@@ -22,5 +22,7 @@ Oyun 2 şekilde biter:
 
 2.Beraberlik: Eğer 9 karenin hepsi dolmasına rağmen iki oyuncuda 3 sembolü yan yana getiremezse oyun berabere biter. 
 
+# Örnek Resimler 
+
 <img width="263" height="543" alt="Ekran görüntüsü 2025-11-19 212638" src="https://github.com/user-attachments/assets/97c46f0b-da42-490b-a5db-415f519b2c51" />
 <img width="258" height="326" alt="Ekran görüntüsü 2025-11-19 212659" src="https://github.com/user-attachments/assets/1fdf5880-3f46-4701-870f-ba86b4a18ad1" />
